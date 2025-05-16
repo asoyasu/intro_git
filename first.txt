@@ -4,4 +4,5 @@ first.txtの中身
 ・git add
 ・git commit
 ・git commit -v 　← -vを付けると、編集内容も表示
-・git rm　
+・git rm
+・git status　
